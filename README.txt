@@ -1,8 +1,18 @@
-Eventually obsolete by SimpleX-Directory service
+Eventually obsolete by SimpleX-Directory services and bots
 
 ------
-*SimpleX–Directory*
-https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FeXSPwqTkKyDO3px4fLf1wx3MvPdjdLW3%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAaiv6MkMH44L2TcYrt_CsX3ZvM11WgbMEUn0hkIKTOho%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion
+
+*SimpleX Directory*:
+https://simplex.chat/contact#/?v=2-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FeXSPwqTkKyDO3px4fLf1wx3MvPdjdLW3%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAaiv6MkMH44L2TcYrt_CsX3ZvM11WgbMEUn0hkIKTOho%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion
+
+*unofficial-simplex-directory-bot*:
+https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FRHGkZZD2wvN7EOBmEjfA5XDNPJQtBfEo%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEA-pCxcyCBzjdZU9LvyRyPtzzt2uMUhIhfnBBAmo9VlDk%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion
+
+*crawler*:
+https://simplex.chat/contact#/?v=2-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FHmmOQV9eg0AC8AfOl-C4Ypf1GGbaLAlh%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAzmXhiQCcHYbhndqOnS0ZPq4rdcsDtNVScMa9iVx1WlE%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion
+
+*the bunny burrow*:
+https://thebunny.zone/contact#/?v=2-7&smp=smp%3A%2F%2FjA736UwbVG_LKSQyi9tr8LZOxgqBIQTJgbi7jgAGJhM%3D%40thebunny.zone%2FaMTH99AuotA9X0jNHy0ULofQPzGxP1KC%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEATboIOQ9INieNQ7onnI1Yxd2o9W0yFB1mvvD2YVurgU0%253D%26srv%3Dbunnysmppnjrd7f4saxjcewlnf3jxyvyjjmtsvdz7cnpxpt5y4mqnoyd.onion
 
 ------
 
@@ -29,13 +39,6 @@ https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28
 –––
 
 ## Official SimpleX groups
-
-!3 Simple!!5 X! !1 groups list!
-!2 Enabled feature!
-(posible not accurate since is did by hand)
-!2 !
-
-!3 Simple!!5 X!!1 Official!
 
 *SimpleX-Group-4* (SimpleX users group 4):
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2FV0BeanrXKX58CFrxvNCPmq7hk3MEnx3G%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAc28hSIe3sA2bgdZsiUzdyJHa_C2dghl0U6OXRgCK5m8%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22IcbGl4OB_pv3wnjPiiv2IA%3D%3D%22%7D
@@ -69,8 +72,6 @@ For really sick deliverability / delay testers, was created a pure testing room.
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fhpq7_4gGJiilmz5Rf-CswuU5kZGkm_zOIooSw6yALRg%3D%40smp5.simplex.im%2FLwn1xPjAmViWaS17DyBkKebq_acgvfPq%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA4Xxm5HWDhxOUaPhXfZVVKwpARY_xYuuqdKhgBlLdpRE%253D%26srv%3Djjbyvoemxysm7qxap7m5d5m35jzv5qq6gnlv7s4rsn7tdwwmuqciwpid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22MV0Qyxl99-rg3BhwZD7MAA%3D%3D%22%7D
 
 *Anon Network* (Discover people, groups, share interests):
-!2 direct!
-!2 delete!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FRSgT1z-i5_Isco9ZrljRMwMujeH0ilyX%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAsgnKISewxnRIsiHk2XT1aU4WvznZD9sOXElfWP8lBEA%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22jykw4NDCia2yX2n219I2Tg%3D%3D%22%7D
 
 *SimpleX Desktop* (Simplex Desktop GUI):
@@ -89,8 +90,6 @@ https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZ
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2Fu2dS9sG8nMNURyZwqASV4yROM28Er0luVTx5X1CsMrU%3D%40smp4.simplex.im%2FnTkG5MBnhRsRTb4heK-8J9jo0Vqc43q2%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA-Go_Cwwzp419dls_-cmYvePuTyKdZ6bsrXAy8K1Sizc%253D%26srv%3Do5vmywmrnaxalvz6wi3zicyftgio6psuvyniis6gco6bp6ekl4cqj4id.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%228L5-Gq789MCV_wUQuNtTLg%3D%3D%22%7D
 
 *Open Source*:
-!2 direct!
-!2 voice!
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FPQUV2eL0t7OStZOoAsPEV2QYWt4-xilbakvGUGOItUo%3D%40smp6.simplex.im%2Fqhf_XwDCqbGHX6mrdVmopOTfl2_S1YY4%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAx_vucmpAMEd342p-ce7N1M9mU8cv-E6fsIRbLKsg3UE%253D%26srv%3Dbylepyau3ty4czmn77q4fglvperknl4bi2eb2fdy2bh4jxtf32kf73yd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22lfZ-vVO_DGMXKv5YduLnxA%3D%3D%22%7D
 
 *FreeSoftware* (Free as in Freedom):
@@ -208,43 +207,21 @@ https://simplex.chat/contact#/?v=1&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3
 Message him directly if you are a content collector or qualify to admin:
 
 /a/ - Anime & Manga:
-!2 delete!
-!2 direct!
-!2 voice!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2FCQwhtDIyVIH_mmtxgmJ-rOyuTus1Jl_u%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA90LhBSSFRQhPFoYNWSEVDLwzYwUGdWYTsJjddOQpmjM%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22iWSRpnrVsT_gTeY-pGHohg%3D%3D%22%7D
 
 /b/ - Random:
-!2 disappearing!
-!2 delete!
-!2 direct!
-!2 voice!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2Fa05kue35b0CMKublSIUJfEN_Ampg_JJS%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAsoojlBV--i07NSTjyHAJTgOh5dniWesZTEslToBsu2M%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22Ok1B6MyJV7UjgPlmOSsQ5Q%3D%3D%22%7D
 
 /d/ - Hentai/Alternative:
-!2 disappearing!
-!2 delete!
-!2 direct!
-!2 voice!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FwAkpPPAA3vEg1JMrhjwFgIDbbUN5l1Xi%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAedUJw-ZbaSprQ8AKcStZWhDoEtEX2KauuCFnKa795VA%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22_bjNpCC_2gUmYR94dUppvw%3D%3D%22%7D
 
 /gif/ - Adult GIF:
-!2 disappearing!
-!2 delete!
-!2 direct!
-!2 voice!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FSkIkI6EPd2D63F4xFKfHk7I1UGZVNn6k1QWZ5rcyr6w%3D%40smp9.simplex.im%2FVBLsFKn4Opm74xtDiUuvvsgml47eH25L%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAGe89jLtuvNO25zWdpAeBn_Zwv3ajMjrEVkrTdVFofkY%253D%26srv%3Djssqzccmrcws6bhmn77vgmhfjmhwlyr3u7puw4erkyoosywgl67slqqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22XxcA_NQLFn1VyQYr2KULmQ%3D%3D%22%7D
 
 /pol/ - Politically Incorrect:
-!2 disappearing!
-!2 delete!
-!2 direct!
-!2 voice!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FTKAGh2-E1EyDfMNhV0Ha07kzgCT_2uIt%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAMa1nS2cBuwWzCrPmf2gtJ4lan-X9b8Dn0K2R6fQ2KFY%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%228ue0_52ScNh_owQf02T3Aw%3D%3D%22%7D
 
 /sci/ - Science & Maths:
-!2 delete!
-!2 direct!
-!2 voice!
 https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F6iIcWT_dF2zN_w5xzZEY7HI2Prbh3ldP07YTyDexPjE%3D%40smp10.simplex.im%2FS-kXhgVZfYYtKG_suHUZq0OD_GeSRq_y%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA8ZgL-OuYJK1nrT0QOSkYjh8vUX7tUfQsvNNTp8DkjGw%253D%26srv%3Drb2pbttocvnbrngnwziclp2f4ckjq65kebafws6g4hy22cdaiv5dwjqd.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22QUlkBClrW0ZRnJjg_Pk2jQ%3D%3D%22%7D
 
 –––
